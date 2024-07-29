@@ -44,11 +44,11 @@ pip install mysql-connector-python pillow
 mysql -u root -p HotelManagement < sql/HotelManagementSQL.sql
 python hotelmanagement.py
 
-Usage
+## Usage
 Login: Use the provided credentials to log in.
 Dashboard: Access different management modules like rooms, reservations, billing, etc.
 Notifications: Admins can send notifications to users.
 Reports: Generate various reports for reservations, occupancy, and financial summaries.
 
-Diagrams
+## Diagrams
 ![image](https://github.com/user-attachments/assets/b12f087c-2505-4f31-8327-1853c5cd1a43)
