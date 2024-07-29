@@ -1,4 +1,5 @@
 import mysql.connector
+import os
 from datetime import datetime
 import tkinter as tk
 from tkinter import messagebox
@@ -62,8 +63,9 @@ class HotelManagementApp(tk.Tk):
         self.header_frame = tk.Frame(self, bg="#34495E")
         self.header_frame.pack(side="top", fill="x")
 
-        # Add a logo at the top
-        self.logo = Image.open("hotellogo.png")  # Replace with your logo path
+       # Add a logo at the top
+        logo_path = os.path.join(os.path.dirname(__file__), "hotellogo.png")
+        self.logo = Image.open(logo_path)
         self.logo = self.logo.resize((100, 100), Image.LANCZOS)
         self.logo = ImageTk.PhotoImage(self.logo)
         self.logo_label = tk.Label(self.header_frame, image=self.logo, bg="#34495E")
