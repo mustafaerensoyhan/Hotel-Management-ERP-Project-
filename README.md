@@ -10,7 +10,6 @@ Welcome to the Hotel Management ERP Project! This project is an ERP-type system 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Diagrams](#diagrams)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -51,4 +50,5 @@ Dashboard: Access different management modules like rooms, reservations, billing
 Notifications: Admins can send notifications to users.
 Reports: Generate various reports for reservations, occupancy, and financial summaries.
 
+Diagrams
 ![image](https://github.com/user-attachments/assets/b12f087c-2505-4f31-8327-1853c5cd1a43)
