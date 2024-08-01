@@ -51,10 +51,9 @@ Notifications: Admins can send notifications to users.
 Reports: Generate various reports for reservations, occupancy, and financial summaries.
 
 ## Diagrams
-Class Diagram
+- Class Diagram
 ![image](https://github.com/user-attachments/assets/b12f087c-2505-4f31-8327-1853c5cd1a43)
-
-Use Case Diagram
+- Use Case Diagram
 ![image](https://github.com/user-attachments/assets/c52d348d-a672-4146-bd75-30f13105480f)
 
 ## License
