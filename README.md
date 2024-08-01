@@ -53,12 +53,9 @@ Reports: Generate various reports for reservations, occupancy, and financial sum
 ## Diagrams
 Class Diagram
 ![image](https://github.com/user-attachments/assets/b12f087c-2505-4f31-8327-1853c5cd1a43)
+
 Use Case Diagram
 ![image](https://github.com/user-attachments/assets/c52d348d-a672-4146-bd75-30f13105480f)
-Activity Diagrams for Guest, Staff and Admin
-![image](https://github.com/user-attachments/assets/9b3ade8e-7119-4ea1-bcb9-4e7dfe11bcd8)
-![image](https://github.com/user-attachments/assets/eac68cfd-1f6e-4840-a0d1-cf7d93ad09b0)
-![image](https://github.com/user-attachments/assets/106eee89-1294-40a4-a370-ffde651c30e2)
 
 ## License
 
